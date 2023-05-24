@@ -1,0 +1,37 @@
+c:\users\dell\documents\visual studio 2010\Projects\nHospital\nHospital\bin\Debug\nHospital.exe
+c:\users\dell\documents\visual studio 2010\Projects\nHospital\nHospital\bin\Debug\nHospital.pdb
+c:\users\dell\documents\visual studio 2010\Projects\nHospital\nHospital\obj\x86\Debug\nHospital.Form1.resources
+c:\users\dell\documents\visual studio 2010\Projects\nHospital\nHospital\obj\x86\Debug\nHospital.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2010\Projects\nHospital\nHospital\obj\x86\Debug\nHospital.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2010\Projects\nHospital\nHospital\obj\x86\Debug\nHospital.exe
+c:\users\dell\documents\visual studio 2010\Projects\nHospital\nHospital\obj\x86\Debug\nHospital.pdb
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\nHospital\nHospital\obj\x86\Debug\nHospital.MainForm.resources
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\nHospital\nHospital\obj\x86\Debug\nHospital.InsertForm.resources
+C:\Users\DELL\documents\visual studio 2010\Projects\nHospital\nHospital\obj\x86\Debug\nHospital.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\nHospital\nHospital\obj\x86\Debug\nHospital.DisplayForm.resources
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\nHospital\nHospital\obj\x86\Debug\nHospital.SearchModifyForm.resources
+C:\Users\LENOVO\Downloads\nHospital\nHospital\bin\Debug\nHospital.exe
+C:\Users\LENOVO\Downloads\nHospital\nHospital\bin\Debug\nHospital.pdb
+C:\Users\LENOVO\Downloads\nHospital\nHospital\obj\x86\Debug\nHospital.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\nHospital\nHospital\obj\x86\Debug\nHospital.DisplayForm.resources
+C:\Users\LENOVO\Downloads\nHospital\nHospital\obj\x86\Debug\nHospital.Form1.resources
+C:\Users\LENOVO\Downloads\nHospital\nHospital\obj\x86\Debug\nHospital.InsertForm.resources
+C:\Users\LENOVO\Downloads\nHospital\nHospital\obj\x86\Debug\nHospital.MainForm.resources
+C:\Users\LENOVO\Downloads\nHospital\nHospital\obj\x86\Debug\nHospital.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\nHospital\nHospital\obj\x86\Debug\nHospital.SearchModifyForm.resources
+C:\Users\LENOVO\Downloads\nHospital\nHospital\obj\x86\Debug\nHospital.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\nHospital\nHospital\obj\x86\Debug\nHospital.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\nHospital\nHospital\obj\x86\Debug\nHospital.exe
+C:\Users\LENOVO\Downloads\nHospital\nHospital\obj\x86\Debug\nHospital.pdb
+D:\nHospital\nHospital\obj\x86\Debug\nHospital.exe
+D:\nHospital\nHospital\obj\x86\Debug\nHospital.pdb
+D:\nHospital\nHospital\bin\Debug\nHospital.exe
+D:\nHospital\nHospital\bin\Debug\nHospital.pdb
+D:\nHospital\nHospital\obj\x86\Debug\nHospital.csprojResolveAssemblyReference.cache
+D:\nHospital\nHospital\obj\x86\Debug\nHospital.DisplayForm.resources
+D:\nHospital\nHospital\obj\x86\Debug\nHospital.Form1.resources
+D:\nHospital\nHospital\obj\x86\Debug\nHospital.InsertForm.resources
+D:\nHospital\nHospital\obj\x86\Debug\nHospital.MainForm.resources
+D:\nHospital\nHospital\obj\x86\Debug\nHospital.Properties.Resources.resources
+D:\nHospital\nHospital\obj\x86\Debug\nHospital.SearchModifyForm.resources
+D:\nHospital\nHospital\obj\x86\Debug\nHospital.csproj.GenerateResource.Cache
